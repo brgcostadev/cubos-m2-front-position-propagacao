@@ -1,0 +1,23 @@
+* {
+    font-size: "Roboto";
+}
+
+li {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 80.45px;
+    font-family: "Merriweather";
+    max-width: 714px;
+}
+
+p {
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 42px;
+    margin: 56px 0 135px 0
+}
